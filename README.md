@@ -114,6 +114,5 @@ This project contains beginner-friendly TypeScript programs for practicing `for`
 
 Add your project explanation video link below:
 
-[▶️ Project Explanation Video](PASTE-YOUR-VIDEO-LINK-HERE)
+[▶️ Project Explanation Video](https://drive.google.com/drive/folders/10f5NQDUtAkOWy5Y-dh4KDC9vWfMqh77J?usp=sharing)
 
-Replace `PASTE-YOUR-VIDEO-LINK-HERE` with your YouTube, Google Drive, or other shareable video link.
